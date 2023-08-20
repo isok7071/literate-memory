@@ -18,11 +18,12 @@ npm run build
 
 #Стек
 Я использовал: 
-*Yii 2
-*PostgreSQL
-*Vue 3
-*Pinia
-*TypeScript
-*Docker
-*php-fpm
-*nginx
+* Yii
+* PostgreSQL
+* Vue 3
+* Vuetify
+* Pinia
+* TypeScript
+* Docker
+* php-fpm
+* nginx
