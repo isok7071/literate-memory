@@ -16,7 +16,7 @@ npm run build
 Адрес фронтенда - http://localhost
 Адрес обработчика при отправки формы на бэкэнде - http://localhost/api/create-user
 
-#Стек
+# Стек
 Я использовал: 
 * Yii
 * PostgreSQL
