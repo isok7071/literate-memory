@@ -15,3 +15,14 @@ npm run build
 4. Готово. 
 Адрес фронтенда - http://localhost
 Адрес обработчика при отправки формы на бэкэнде - http://localhost/api/create-user
+
+#Стек
+Я использовал: 
+*Yii 2
+*PostgreSQL
+*Vue 3
+*Pinia
+*TypeScript
+*Docker
+*php-fpm
+*nginx
