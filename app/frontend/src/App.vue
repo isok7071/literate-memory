@@ -2,7 +2,7 @@
   <v-app>
     <v-main>
       <v-container>
-        <registration-form></registration-form>
+        <registration-form />
       </v-container>
     </v-main>
   </v-app>
