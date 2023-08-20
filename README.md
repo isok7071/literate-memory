@@ -18,7 +18,7 @@ npm run build
 
 # Стек
 Я использовал: 
-* Yii
+* Yii 2
 * PostgreSQL
 * Vue 3
 * Vuetify
